@@ -42,6 +42,8 @@ XLSX файл
 ![image](https://user-images.githubusercontent.com/130985823/232519459-898433cb-9a38-43e0-b47d-419d3cabc542.png)
 ![image](https://user-images.githubusercontent.com/130985823/232519518-005cc722-0575-42e2-abda-8d3f95ff9758.png)
 ![image](https://user-images.githubusercontent.com/130985823/232519584-2994d931-f6c9-48d8-8200-ba5f7dc958ac.png)
+  
+<p>Для решения был использован диалект языка SQL - PostgreSQL. Решение выполнялось на площадке Metabase.
 
 <p>Вывод: Запрос показал, что у некоторых студентов встречаются отрицательные балансы. Возможно не все оплаты занесены в базу данных. 
 
